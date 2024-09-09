@@ -19,11 +19,15 @@ public class HomeController extends Controller {
     }
     
     public Result explore() {
-        return ok(views.html.explore.render());
+        return TODO(null);
     }
     
     public Result tutorial() {
         return ok(views.html.tutorial.render());
+    }
+
+    public Result getArticle(String id, String versionId) {
+        return ok(id + versionId);
     }
 
 }

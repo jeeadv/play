@@ -1,12 +1,7 @@
-2024-09-09 15:02:07,586 [INFO] from play.api.http.EnabledFilters in play-dev-mode-pekko.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+2024-09-09 15:36:48,502 [INFO] from play.api.http.EnabledFilters in play-dev-mode-pekko.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
     play.filters.headers.SecurityHeadersFilter
     play.filters.hosts.AllowedHostsFilter
 
-2024-09-09 15:02:07,663 [INFO] from play.api.Play in play-dev-mode-pekko.actor.default-dispatcher-4 - Application started (Dev) (no global state)
-2024-09-09 15:27:54,583 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in pool-5-thread-2 - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 40000 milliseconds timeout
-2024-09-09 15:27:54,584 [INFO] from play.core.server.PekkoHttpServer in pool-5-thread-2 - Stopping Pekko HTTP server...
-2024-09-09 15:27:54,591 [INFO] from play.core.server.PekkoHttpServer in play-dev-mode-pekko.actor.internal-dispatcher-27 - Unbinding /[0:0:0:0:0:0:0:0]:9000
-2024-09-09 15:27:54,595 [INFO] from play.core.server.PekkoHttpServer in play-dev-mode-pekko.actor.internal-dispatcher-31 - Terminating server binding for /[0:0:0:0:0:0:0:0]:9000
-2024-09-09 15:27:54,631 [INFO] from play.core.server.PekkoHttpServer in play-dev-mode-pekko.actor.internal-dispatcher-27 - Running provided shutdown stop hooks
+2024-09-09 15:36:48,582 [INFO] from play.api.Play in play-dev-mode-pekko.actor.default-dispatcher-4 - Application started (Dev) (no global state)
